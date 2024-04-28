@@ -1,0 +1,19 @@
+2024-04-28 20:14:59:1459 [32minfo[39m: [32mMessage[39m
+2024-04-28 20:15:07:157 [32minfo[39m: [32mMessage[39m
+2024-04-28 20:16:00:160 [32minfo[39m: [32mServer is running!!![39m
+2024-04-28 20:16:00:160 [32minfo[39m: [32mConnected to PostgreSQL database!!![39m
+2024-04-28 20:16:52:1652 [32minfo[39m: [32mServer is running!!![39m
+2024-04-28 20:16:52:1652 [32minfo[39m: [32mConnected to PostgreSQL database!!![39m
+2024-04-28 20:18:10:1810 [32minfo[39m: [32mServer is running!!![39m
+2024-04-28 20:18:10:1810 [32minfo[39m: [32mConnected to PostgreSQL database!!![39m
+2024-04-28 20:21:06:216 [32minfo[39m: [32mServer is running!!![39m
+2024-04-28 20:21:06:216 [32minfo[39m: [32mServer is running!!![39m
+2024-04-28 20:21:07:217 [32minfo[39m: [32mConnected to PostgreSQL database!!![39m
+2024-04-28 20:22:15:2215 [32minfo[39m: [32mServer is running!!![39m
+2024-04-28 20:22:15:2215 [32minfo[39m: [32mConnected to PostgreSQL database!!![39m
+2024-04-28 20:24:02:242 [35mhttp[39m: [35m::1 POST /events 201 158 - 336.945 ms[39m
+[35m[39m
+2024-04-28 20:24:10:2410 [35mhttp[39m: [35m::1 GET /events 201 2796 - 39.831 ms[39m
+[35m[39m
+2024-04-28 20:25:37:2537 [32minfo[39m: [32mServer is running!!![39m
+2024-04-28 20:25:38:2538 [32minfo[39m: [32mConnected to PostgreSQL database!!![39m
